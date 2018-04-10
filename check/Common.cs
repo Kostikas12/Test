@@ -10,5 +10,6 @@ namespace check
     {
         int c = 444;
         string cs = "asd";
+        string casds = "a2323sd";
     }
 }
