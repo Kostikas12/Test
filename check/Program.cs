@@ -10,6 +10,7 @@ namespace check
     {
         static void Main(string[] args)
         {
+            int b = 0;
         }
     }
 }
