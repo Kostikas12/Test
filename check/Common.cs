@@ -8,6 +8,7 @@ namespace check
 {
     class Common
     {
-        int c = 11;
+        int c = 444;
+        string cs = "asd";
     }
 }
