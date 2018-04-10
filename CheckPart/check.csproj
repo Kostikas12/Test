@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BF7C2A4C-4540-4E1E-A21F-288F1CB9BA44}</ProjectGuid>
+    <ProjectGuid>{D0EE5DE0-BE80-4967-B476-31A9A064FC78}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CheckPart</RootNamespace>
-    <AssemblyName>CheckPart</AssemblyName>
+    <RootNamespace>check</RootNamespace>
+    <AssemblyName>check</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Common.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

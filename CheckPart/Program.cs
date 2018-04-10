@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CheckPart
+namespace check
 {
     class Program
     {
         static void Main(string[] args)
         {
+            int b = 0;
         }
     }
 }
