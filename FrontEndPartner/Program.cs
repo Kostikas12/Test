@@ -10,13 +10,13 @@ namespace FrontEnd
     {
         static void Main(string[] args)
         {
-            int a = 10;
+            int a = 0;
         }
 
         private static void Fun()
         {
             int a = 9;
-            int b = a + 4444;
+            int b = a + 22;
         }
     }
 }
